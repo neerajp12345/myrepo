@@ -1,0 +1,14 @@
+This is a simple chatbot built using Flask for the user interface and Retrieval-Augmented Generation (RAG) to enrich responses with relevant text. The added content is transformed into embeddings, enabling the chatbot to answer questions based on the defined dataset.
+
+The dependent packages are defined in requirements.txt.
+
+1.	Clone the repo - https://github.com/neerajp12345/myrepo
+2.	Created virtual env “Python -m venv .venv”, followed by activating it
+3.	Install: pip install -r requirements.txt
+4.	Run: python chatbot.py
+
+* Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+Starting RAG WebApp with Gemini...
+
