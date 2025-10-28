@@ -1,1 +1,9 @@
-
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+flask
+python-dotenv
+langchain-text-splitters
+langchain-google-genai
+langchain-core
